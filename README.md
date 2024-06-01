@@ -1,17 +1,11 @@
-<!--
-**xxxilyanang/xxxilyanang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={HI THERE}&fontSize=90&fontAlign=50&fontAlignY=30&desc={I’m Dianel Lee}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Hi there 👋,I'm Daniel.
 
 - 🔭 I’m college student who loves the art of coding.
@@ -21,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/m0_63648885?spm=1000.2115.3001.5343)
 
 ![](https://github-readme-stats.vercel.app/api?username=xxxilyanang&show_icons=true&theme=transparent)
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/xxxilyanang/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxilyanang&layout=compact&theme=tokyonight)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=xxxilyanang&theme=dracula)
 
 ### My Skill Set
 
