@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Reddit+Mono&weight=500&size=30&pause=1000&color=7311F7&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&random=%E5%81%87&width=600&height=100&lines=Welcome+to+my+GitHub+profile+page;Pleasure+to+exchange+ideas+with+you"/>
 </p>
 
-### Hi there 👋,I'm Daniel Lee.
+## Hi there 👋,I'm Daniel Lee.
 
 - 🔭 I’m college student who loves the art of coding.
 - 🌱 I’m currently learning Everything I like.
@@ -29,8 +29,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxilyanang&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 
-### My Skill Set
-
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
 
 
