@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Reddit+Mono&weight=500&size=30&pause=1000&color=7311F7&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&random=%E5%81%87&width=600&height=100&lines=Welcome+to+my+GitHub+profile+page;Pleasure+to+exchange+ideas+with+you"/>
 </p>
 
-## Hi there 👋,I'm Daniel Lee.
+## Hi there 👋,I'm Aaron Lee.
 
 - 🔭 I’m college student who loves the art of coding.
 - 🌱 I’m currently learning Everything I like.
